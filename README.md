@@ -2,6 +2,17 @@
 
 A comprehensive online sports betting and casino platform built with React and Node.js, featuring casino games, sports betting, live casino, user management, and comprehensive administrative tools.
 
+## 👋 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ ##
+
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
 ## 🎯 Overview
 
 ShinyBet is a full-stack sports betting and casino platform that provides users with a seamless gaming and betting experience. The platform consists of three main components working together to deliver a complete solution:
